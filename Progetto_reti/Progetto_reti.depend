@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1736769568 source:/home/giuseppe/Progetto_reti/Client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<pthread.h>
+	<signal.h>
+	<arpa/inet.h>
+	<errno.h>
+
